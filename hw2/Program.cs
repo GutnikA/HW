@@ -88,3 +88,23 @@ if (W == 6 | W == 7)
        return;
 }
 */
+
+
+
+
+
+
+
+
+
+
+ /*
+int[] array = new int[10];
+
+FillArray(array);
+PrintArray(array);
+Console.WriteLine();
+
+int pos = IndexOf(array, 4);
+Console.WriteLine(pos);  */
+
